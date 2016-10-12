@@ -1,5 +1,5 @@
 {
-  "name": "angular-breadcrumb",
+  "name": "eiase-angular-breadcrumb",
   "description": "AngularJS module that generates a breadcrumb from ui-router's states",
   "version": "0.4.2",
   "homepage": "http://ncuillery.github.io/angular-breadcrumb",
