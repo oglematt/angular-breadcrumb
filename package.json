@@ -1,11 +1,15 @@
 {
   "name": "angular-breadcrumb",
   "description": "AngularJS module that generates a breadcrumb from ui-router's states",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "homepage": "http://ncuillery.github.io/angular-breadcrumb",
   "author": {
     "name": "Nicolas Cuillery",
     "email": "nicolas.cuillery@gmail.com"
+  },
+  "forkedBy": {
+    "name": "Matt Ogle",
+    "email": "mogle@eiase.com"
   },
   "repository": {
     "type": "git",
